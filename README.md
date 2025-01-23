@@ -93,7 +93,7 @@ The data structure was retained to align with the original dataset.
 
 This project is for academic and demonstration purposes. The data does not reflect actual business operations of Daraz BD and is purely fictional. If you have any questions or feedback, feel free to reach out.
 
-Acknowledgment
+# Acknowledgment
 
-The dataset used in this project was sourced from Maven Analytics Data Playground. I sincerely thank Maven Analytics for providing access to this valuable resource for learning and development.
+The dataset used in this project was sourced from Maven Analytics Data Playground. Additionally, I referred to a YouTube tutorial by Learn Power BI (https://youtu.be/GfUULV3mh3A?si=6Cmlm81HifJNS_BM), which provided valuable guidance during the preparation of this dashboard. I sincerely thank Maven Analytics for providing access to this valuable resource for learning and development.
 
