@@ -1,0 +1,51 @@
+Store_ID,Store_Name,Store_City,Store_Location,Store_Open_Date
+1,Maven Toys Guadalajara 1,Dhaka,Residential,18/9/1992
+2,Maven Toys Monterrey 1,Chattogram,Residential,27/4/1995
+3,Maven Toys Guadalajara 2,Sylhet,Commercial,27/12/1999
+4,Maven Toys Saltillo 1,Rajshahi,Downtown,1/1/2000
+5,Maven Toys La Paz 1,Khulna,Downtown,31/5/2001
+6,Maven Toys Mexicali 1,Barishal,Commercial,13/12/2003
+7,Maven Toys Monterrey 2,Rangpur,Downtown,25/12/2003
+8,Maven Toys Pachuca 1,Cumilla,Downtown,14/10/2004
+9,Maven Toys Ciudad de Mexico 1,Gazipur,Downtown,15/10/2004
+10,Maven Toys Campeche 1,Narayanganj,Downtown,14/1/2005
+11,Maven Toys Cuernavaca 1,Dhaka,Downtown,19/4/2005
+12,Maven Toys Chetumal 1,Chattogram,Downtown,5/5/2006
+13,Maven Toys Mexicali 2,Sylhet,Downtown,30/8/2006
+14,Maven Toys Guanajuato 1,Rajshahi,Downtown,31/1/2007
+15,Maven Toys Tuxtla Gutierrez 1,Khulna,Downtown,5/3/2007
+16,Maven Toys San Luis Potosi 1,Barishal,Downtown,19/5/2007
+17,Maven Toys Toluca 1,Rangpur,Downtown,9/12/2007
+18,Maven Toys Merida 1,Cumilla,Downtown,22/8/2008
+19,Maven Toys Puebla 1,Gazipur,Commercial,16/12/2008
+20,Maven Toys Zacatecas 1,Narayanganj,Downtown,29/5/2009
+21,Maven Toys Santiago 1,Dhaka,Downtown,23/11/2009
+22,Maven Toys Guanajuato 2,Chattogram,Commercial,29/3/2010
+23,Maven Toys Chihuahua 1,Sylhet,Commercial,12/6/2010
+24,Maven Toys Aguascalientes 1,Rajshahi,Downtown,31/7/2010
+25,Maven Toys Ciudad Victoria 1,Khulna,Downtown,8/9/2010
+26,Maven Toys Campeche 2,Barishal,Commercial,15/9/2010
+27,Maven Toys Oaxaca 1,Rangpur,Downtown,2/10/2010
+28,Maven Toys Puebla 2,Cumilla,Downtown,1/4/2011
+29,Maven Toys Xalapa 1,Gazipur,Commercial,21/6/2011
+30,Maven Toys Guadalajara 3,Narayanganj,Airport,20/10/2011
+31,Maven Toys Ciudad de Mexico 2,Dhaka,Airport,4/5/2012
+32,Maven Toys Hermosillo 1,Chattogram,Residential,31/8/2012
+33,Maven Toys Monterrey 3,Sylhet,Airport,17/3/2013
+34,Maven Toys Villahermosa 1,Rajshahi,Downtown,7/6/2013
+35,Maven Toys Chilpancingo 1,Khulna,Downtown,11/6/2013
+36,Maven Toys Morelia 1,Barishal,Downtown,1/7/2013
+37,Maven Toys Ciudad de Mexico 3,Rangpur,Residential,28/11/2013
+38,Maven Toys Chihuahua 2,Cumilla,Downtown,18/3/2014
+39,Maven Toys Xalapa 2,Gazipur,Downtown,21/4/2014
+40,Maven Toys Toluca 2,Narayanganj,Commercial,27/5/2014
+41,Maven Toys Hermosillo 2,Dhaka,Downtown,1/6/2014
+42,Maven Toys Hermosillo 3,Chattogram,Commercial,27/6/2014
+43,Maven Toys Durango 1,Sylhet,Downtown,30/6/2014
+44,Maven Toys Puebla 3,Rajshahi,Residential,27/12/2014
+45,Maven Toys Ciudad de Mexico 4,Khulna,Commercial,21/6/2015
+46,Maven Toys Guadalajara 4,Barishal,Downtown,31/10/2015
+47,Maven Toys Monterrey 4,Rangpur,Commercial,21/11/2015
+48,Maven Toys Saltillo 2,Cumilla,Commercial,23/3/2016
+49,Maven Toys Culiacan 1,Gazipur,Downtown,10/5/2016
+50,Maven Toys Guanajuato 3,Narayanganj,Residential,18/5/2016
