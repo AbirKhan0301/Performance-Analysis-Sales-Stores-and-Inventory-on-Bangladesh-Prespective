@@ -15,25 +15,30 @@ The data used in this project is dummy data sourced from Maven Analytics Data Pl
 # Sales Trends:
 
 Explore monthly sales patterns and identify seasonal spikes or declines.
-![image](https://github.com/user-attachments/assets/3a9b8d20-4ea7-4a18-a316-710f3aa048f8)
+![image](https://github.com/user-attachments/assets/e5384d1e-ef17-40fb-a327-083a171c3aa8)
+
 
 # Product Analysis:
 
 Identify top-performing products and their contribution to overall revenue.
 
 Analyze sales by product categories to understand key drivers of performance.
+![image](https://github.com/user-attachments/assets/3a9b8d20-4ea7-4a18-a316-710f3aa048f8)
 
 # Store Insights:
 
 Evaluate store-wise performance, including total sales, growth rates, and city-level contributions.
 
 Visualize geographic sales distribution using maps.
+![image](https://github.com/user-attachments/assets/0745fe38-3a9e-4f32-9c0c-f66c13e752c3)
+
 
 # Inventory Management:
 
 Monitor stock levels to identify low-stock and overstocked items.
 
 Analyze inventory aging and replenishment needs to optimize stock management.
+![image](https://github.com/user-attachments/assets/0a20f3bd-f2be-4450-94f6-740c80468017)
 
 # Dashboard Pages
 
