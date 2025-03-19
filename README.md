@@ -9,7 +9,7 @@ This project demonstrates how to build an interactive Power BI dashboard for ana
 # Data Source
 
 The data used in this project is dummy data sourced from Maven Analytics Data Playground. All credit for the data belongs to Maven Analytics, and it has been used for educational purposes only.
-
+![Image](https://github.com/user-attachments/assets/cf1cde6e-70fd-4de0-8c5c-e6a4a7fc5df6)
 # Features
 
 # Sales Trends:
