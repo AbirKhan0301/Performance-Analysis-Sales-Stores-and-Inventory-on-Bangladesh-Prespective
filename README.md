@@ -1,5 +1,6 @@
 # Performance-Analysis-Sales-Stores-and-Inventory-on-Bangladesh-Prespective
 Performance Dashboard
+![image](https://github.com/user-attachments/assets/4039bad4-94c2-48f5-9bd0-f90b0e67cfe9)
 
 # Objective
 
