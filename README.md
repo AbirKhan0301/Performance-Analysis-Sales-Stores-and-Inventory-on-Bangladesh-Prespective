@@ -15,6 +15,7 @@ The data used in this project is dummy data sourced from Maven Analytics Data Pl
 # Sales Trends:
 
 Explore monthly sales patterns and identify seasonal spikes or declines.
+![image](https://github.com/user-attachments/assets/3a9b8d20-4ea7-4a18-a316-710f3aa048f8)
 
 # Product Analysis:
 
